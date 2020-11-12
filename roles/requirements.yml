@@ -1,6 +1,0 @@
----
-
-- src: https://github.com/reddyniranjan2/create-inventory.git
-  version: 'master'
-  path: roles
-  scm: git
