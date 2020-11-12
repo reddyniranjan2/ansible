@@ -1,6 +1,6 @@
 ---
 
-- src: git@github.com:reddyniranjan2/create-inventory.git
+- src: git@github.com:reddyniranjan2/create_inventory.git
   version: 'master'
   path: roles
   scm: git
