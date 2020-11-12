@@ -5,4 +5,4 @@
   become: false
   gather_facts: true
   roles:
-    - "create_inventory"
+    - create_inventory
