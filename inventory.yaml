@@ -1,0 +1,16 @@
+- name: Create a Inventory
+  uri:
+    url: https://3.236.84.49/api/v2/inventories/
+    method: POST
+    user: admin
+    password: password
+    return_content=yes 
+    HEADER_Content-Type="application/json"
+    body: {
+             "kind": "",
+             "name": "ravi postman inventory",
+             "organization": 1
+           }
+
+
+
